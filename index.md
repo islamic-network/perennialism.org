@@ -150,7 +150,7 @@
                       or exposition of the Perennial Philosophy.
                     </li>
                     <li>
-                      Rene Guenon (ʿAbd al Wāḥid Yaḥyá al Mālikī al Ḥāmidī al Shādhilī), Ananda Coomaraswamy, Frithjof Schuon (`Isa Nur al-Din Ahmad al-Shādhilī al Darquwi al- `Alāwi al-Maryamī) and Seyyed Hossein Nasr write extensively on tradition
+                      Rene Guenon (ʿAbd al Wāḥid Yaḥyá al Mālikī al Ḥāmidī al Shādhilī), Ananda Coomaraswamy, Frithjof Schuon (`Isa Nur al-Din Ahmad al-Shādhilī al Darqawi al-`Alāwi al-Maryamī) and Seyyed Hossein Nasr write extensively on tradition
                       and the perennial philosophy, revitalizing its <i>real</i> meaning. That is how it is defined on this website.
                     </li>
                   </ul>
