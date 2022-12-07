@@ -232,7 +232,7 @@
                   </p>
                   <p>
                     By extension, this implies an inclusion and extension of the writings of Rene Guenon (Abd al Wāḥid Yaḥyá al Mālikī al Ḥāmidī al Shādhilī), Ananda Coomaraswamy,
-                    Frithjof Schuon (`Isa Nur al-Din Ahmad al-Shādhilī al Darquwi al-`Alāwi al-Maryamī) and Martin Lings (Abu Bakr Sirāj Al Dīn).
+                    Frithjof Schuon (`Isa Nur al-Din Ahmad al-Shādhilī al Darqawi al-`Alāwi al-Maryamī) and Martin Lings (Abu Bakr Sirāj Al Dīn).
                   </p>
                   <p>
                     By further extension, this implies an inclusion of the tradition of wisdom in Islam (and by extension Sufism / Tasawwuf),
