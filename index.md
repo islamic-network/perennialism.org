@@ -146,7 +146,7 @@
                       Perennial Philosophy in French.
                     </li>
                     <li>Then, after the second world war, Alduous Huxley - a British novelist - published a book called
-                      'The Perennial Philosphy'. This hinted at the original idea, but was not an authentic understanding
+                      'The Perennial Philosophy'. This hinted at the original idea, but was not an authentic understanding
                       or exposition of the Perennial Philosophy.
                     </li>
                     <li>
