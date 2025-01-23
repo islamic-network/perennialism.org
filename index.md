@@ -190,7 +190,7 @@
                     <div class="col-xs-2">15th/16th Century AD</div>
                     <div class="col-xs-3">Philosphia Perennis</div>
                     <div class="col-xs-2">Agostino Steuco</div>
-                    <div class="col-xs-4">in a book</div>
+                    <div class="col-xs-4">a book</div>
                     <div class="col-xs-1">Latin</div>
                   </div>
                   <div class="row">
